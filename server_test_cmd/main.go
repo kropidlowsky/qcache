@@ -7,7 +7,7 @@ import (
 
 	"github.com/allegro/bigcache/v3"
 	"github.com/gin-gonic/gin"
-	"github.com/kropidlowsky/qcache/pkg/qcache"
+	"github.com/kropidlowsky/qcache"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )
